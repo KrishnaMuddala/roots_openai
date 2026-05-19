@@ -164,3 +164,8 @@ LLM_MODEL=llama3.2:latest
 ```
 
 Tool calling support varies by model. **Qwen2.5** and **Llama 3.2+** have reliable tool use. Smaller or older models may not follow tool call instructions consistently.
+
+## Demo
+
+![MCP Chat CLI demo](assets/demo.png)
+*MCP Chat running with llama3.2 via Ollama on Windows*
