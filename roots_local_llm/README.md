@@ -1,4 +1,4 @@
-# VidsMCP — Local LLM CLI with MCP File & Video Tools
+# Videos MCP — Local LLM CLI with MCP File & Video Tools
 
 A command-line chat app that connects a **local LLM running via Ollama** (Qwen, Llama, etc.) to an MCP server that can browse directories and convert videos. No Anthropic or OpenAI API keys required — everything runs on your machine.
 
