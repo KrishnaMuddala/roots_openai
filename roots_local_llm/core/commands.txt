@@ -1,0 +1,6 @@
+uv add openai
+> list my roots
+> what directories do you have access to?
+> show me the root directories
+
+convert Screen Recording 2026-01-21 140255.mp4 to .mov file
